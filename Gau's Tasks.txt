@@ -6,8 +6,8 @@ Task in Gau's day
 - 1 algorythm(at least)(30p) x  
 - Reactjs (30p-45p) 
 - WebApi - Asp.net(2h) 
-- Code GauShop(2h) 
-
+- Code GauShop(3h) 
+- Ok
 Total: 6h
 
 (Implement in 5h)
